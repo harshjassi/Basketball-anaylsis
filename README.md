@@ -175,25 +175,3 @@ As we continue to enhance the capabilities of this basketball video analysis too
 
 These enhancements will further refine the analysis capabilities and provide users with more comprehensive insights into basketball games.
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Submit a pull request with a clear explanation of your changes.
-
----
-
-## 🐜 License
-
-This project is licensed under the MIT License.  
-See `LICENSE` for details.
-
----
-
-## 💬 Questions or Feedback?
-
-Feel free to open an issue or reach out via email if you have questions about the project, suggestions for improvements, or just want to say hi!
-
-Enjoy analyzing basketball footage with automatic detection and tracking!
